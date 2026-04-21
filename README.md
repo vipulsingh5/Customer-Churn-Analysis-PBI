@@ -22,8 +22,7 @@
 - **Enhance customer experience:** Gain deeper understanding of customer expectations and preferences.  
 - **Data-backed decision making:** Utilize analytical insights to improve retention strategies and business outcomes.  
 
-![Customer Risk Analysis](<img width="1285" height="726" alt="Customer_Risk_Analysis" src="https://github.com/user-attachments/assets/98830748-3d9f-439f-ba89-6c8b4f3fbe2b" />
-)
+![Customer Risk Analysis](https://github.com/user-attachments/assets/98830748-3d9f-439f-ba89-6c8b4f3fbe2b)
 
 ## **Beyond Visualization: Driving Business Communication**
 In addition to dashboard development, this project focuses on translating insights into meaningful business communication. Through structured reporting and email summaries, I:
