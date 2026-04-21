@@ -14,7 +14,7 @@
 
 ## 📌 Project Overview
 
-![Hello](src="https://github.com/user-attachments/assets/8077f188-270b-47dd-905a-37be64d4c047")
+![Hello](https://github.com/user-attachments/assets/8077f188-270b-47dd-905a-37be64d4c047)
 
 
 This project focuses on analyzing customer behavior using **Power BI** and **Excel** to identify churn patterns and help businesses take proactive measures. The dashboard provides clear, interactive insights that support data-driven decision-making.
