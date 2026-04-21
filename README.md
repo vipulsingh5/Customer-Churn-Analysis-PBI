@@ -70,8 +70,9 @@ This project focuses on analyzing customer behavior using **Power BI** and **Exc
 ## 📊 Customer Risk Analysis
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/YOUR-IMAGE-ID" width="800"/>
+  <img src="https://github.com/user-attachments/assets/c40e0e12-55d4-46b6-a62f-8e849b3c91bf" width="800"/>
 </p>
+
 
 ---
 
