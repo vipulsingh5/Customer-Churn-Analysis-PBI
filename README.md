@@ -45,6 +45,16 @@ This project focuses on analyzing customer behavior using **Power BI** and **Exc
   <img src="https://github.com/user-attachments/assets/5eb93824-3cf6-4dc7-9c08-9b06c0528d85" width="800"/>
 </p>
 
+## 🧠 Key Insights
+
+- 📌 Customers with shorter tenure show a significantly higher churn rate compared to long-term customers.  
+- 📌 Higher monthly charges are strongly associated with increased churn probability.  
+- 📌 Customers using fewer services are more likely to leave, indicating low engagement.  
+- 📌 Contract type plays a critical role — month-to-month customers churn more than long-term contract users.  
+- 📌 Payment method and billing preferences influence retention behavior.  
+
+---
+
 ---
 
 ## 🛠️ Tech Stack
