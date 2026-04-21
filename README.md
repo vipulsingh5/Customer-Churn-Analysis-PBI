@@ -34,9 +34,8 @@ This project focuses on analyzing customer behavior using **Power BI** and **Exc
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d1135cc8-e85b-4ca8-9d4f-7b5b4647e228" width="800"/>
+  <img src="https://github.com/user-attachments/assets/0dfe95b8-73d1-44a8-8ba3-536994bbf500" width="800"/>
 </p>
-<img width="1285" height="729" alt="Customer_Churn_Dashboard" src="https://github.com/user-attachments/assets/0dfe95b8-73d1-44a8-8ba3-536994bbf500" />
 
 ---
 
@@ -98,6 +97,7 @@ This project focuses on analyzing customer behavior using **Power BI** and **Exc
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c40e0e12-55d4-46b6-a62f-8e849b3c91bf" width="800"/>
 </p>
+<img width="1285" height="726" alt="Customer_Risk_Analysis" src="https://github.com/user-attachments/assets/ebaa2e9a-e667-4c7f-891e-6d205b5c01ea" />
 
 
 ---
