@@ -14,9 +14,6 @@
 
 ## 📌 Project Overview
 
-![Hello](https://github.com/user-attachments/assets/8077f188-270b-47dd-905a-37be64d4c047)
-
-
 This project focuses on analyzing customer behavior using **Power BI** and **Excel** to identify churn patterns and help businesses take proactive measures. The dashboard provides clear, interactive insights that support data-driven decision-making.
 
 ---
@@ -37,16 +34,40 @@ This project focuses on analyzing customer behavior using **Power BI** and **Exc
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d1135cc8-e85b-4ca8-9d4f-7b5b4647e228" width="800"/>
+  <img src="https://github.com/user-attachments/assets/YOUR-DASHBOARD-LINK" width="800"/>
 </p>
 
 ---
 
 ## 🧠 Key Insights
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5eb93824-3cf6-4dc7-9c08-9b06c0528d85" width="800"/>
-</p>
+- 📊 **Tenure vs Churn Relationship**  
+  Customers with shorter tenure exhibit a significantly higher churn rate, indicating weak initial engagement and onboarding gaps. Long-term customers show stronger retention patterns.
+
+- 💰 **Impact of Monthly Charges**  
+  Higher monthly charges are directly correlated with increased churn probability. This suggests pricing sensitivity and perceived value mismatch among customers.
+
+- 📉 **Service Adoption Behavior**  
+  Customers subscribed to fewer services are more likely to churn, highlighting low product engagement as a major risk factor. Multi-service users demonstrate stronger loyalty.
+
+- 📑 **Contract Type Influence**  
+  Month-to-month contract customers have the highest churn rate, whereas customers with long-term contracts (1–2 years) show significantly better retention.
+
+- 💳 **Payment & Billing Preferences**  
+  Customers using electronic check payment methods tend to churn more frequently, indicating possible friction or trust issues in the payment experience.
+
+- ⚠️ **High-Risk Customer Segment Identification**  
+  A critical churn segment consists of customers with:
+  - Low tenure  
+  - High monthly charges  
+  - Month-to-month contracts  
+  - Limited service usage  
+
+- 📈 **Retention Opportunity Areas**  
+  Improving onboarding experience, offering bundled services, and incentivizing long-term contracts can significantly reduce churn rates.
+
+- 🎯 **Business Strategy Insight**  
+  Proactive engagement and personalized retention campaigns can effectively target high-risk customers and improve overall customer lifetime value.
 
 ---
 
@@ -73,7 +94,7 @@ This project focuses on analyzing customer behavior using **Power BI** and **Exc
 ## 📊 Customer Risk Analysis
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/YOUR-IMAGE-ID" width="800"/>
+  <img src="https://github.com/user-attachments/assets/YOUR-RISK-IMAGE-LINK" width="800"/>
 </p>
 
 ---
