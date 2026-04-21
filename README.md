@@ -7,7 +7,7 @@
 
 📌 **Customer Grouping:** Categorize customers based on patterns, behavior, and churn probability to enable more personalized marketing strategies.
 
-![Customer Churn Dashboard]("https://github.com/user-attachments/assets/d56847ee-4ccb-4fc8-82c8-5ce654dd3fc6")
+![Customer Churn Dashboard](https://github.com/user-attachments/assets/d56847ee-4ccb-4fc8-82c8-5ce654dd3fc6)
 
 
 ## **Technology Stack:**
