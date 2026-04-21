@@ -41,19 +41,34 @@ This project focuses on analyzing customer behavior using **Power BI** and **Exc
 
 ## 🧠 Key Insights
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5eb93824-3cf6-4dc7-9c08-9b06c0528d85" width="800"/>
-</p>
+- 📊 **Tenure vs Churn Relationship**  
+  Customers with shorter tenure exhibit a significantly higher churn rate, indicating weak initial engagement and onboarding gaps. Long-term customers show stronger retention patterns.
 
-## 🧠 Key Insights
+- 💰 **Impact of Monthly Charges**  
+  Higher monthly charges are directly correlated with increased churn probability. This suggests pricing sensitivity and perceived value mismatch among customers.
 
-- 📌 Customers with shorter tenure show a significantly higher churn rate compared to long-term customers.  
-- 📌 Higher monthly charges are strongly associated with increased churn probability.  
-- 📌 Customers using fewer services are more likely to leave, indicating low engagement.  
-- 📌 Contract type plays a critical role — month-to-month customers churn more than long-term contract users.  
-- 📌 Payment method and billing preferences influence retention behavior.  
+- 📉 **Service Adoption Behavior**  
+  Customers subscribed to fewer services are more likely to churn, highlighting low product engagement as a major risk factor. Multi-service users demonstrate stronger loyalty.
 
----
+- 📑 **Contract Type Influence**  
+  Month-to-month contract customers have the highest churn rate, whereas customers with long-term contracts (1–2 years) show significantly better retention.
+
+- 💳 **Payment & Billing Preferences**  
+  Customers using electronic check payment methods tend to churn more frequently, indicating possible friction or trust issues in the payment experience.
+
+- ⚠️ **High-Risk Customer Segment Identification**  
+  A critical churn segment consists of customers with:
+  - Low tenure  
+  - High monthly charges  
+  - Month-to-month contracts  
+  - Limited service usage  
+  This segment requires immediate retention strategies.
+
+- 📈 **Retention Opportunity Areas**  
+  Improving onboarding experience, offering bundled services, and incentivizing long-term contracts can significantly reduce churn rates.
+
+- 🎯 **Business Strategy Insight**  
+  Data suggests that proactive engagement and personalized retention campaigns can effectively target high-risk customers and improve overall customer lifetime value.
 
 ---
 
