@@ -6,7 +6,7 @@
 📌 **Churn Prediction Analysis:** Detect potential customer drop-offs in advance, allowing businesses to take preventive measures and improve retention.
 
 📌 **Customer Grouping:** Categorize customers based on patterns, behavior, and churn probability to enable more personalized marketing strategies.
-![hello]<img width="1285" height="729" alt="Customer_Churn_Dashboard" src="https://github.com/user-attachments/assets/4b4e0ebd-6543-4406-be17-c33d06fd6db0" />
+![hello]src="https://github.com/user-attachments/assets/4b4e0ebd-6543-4406-be17-c33d06fd6db0" />
 
 ![Customer Churn Dashboard](https://github.com/DataVizExpert-Sham/Predictive-Customer-Analytics-in-Power-BI/assets/151017676/e91b9651-b26e-4ca0-af99-feb91311f5dd)
 
