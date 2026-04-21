@@ -15,7 +15,7 @@
 - Microsoft Excel  
 
 ## **Insights Overview:**
-![key insights](https://github.com/DataVizExpert-Sham/Predictive-Customer-Analytics-in-Power-BI/assets/151017676/af60d484-23ad-4c03-ad5a-fc9af7ea0af4)
+![key insights](https://github.com/user-attachments/assets/5eb93824-3cf6-4dc7-9c08-9b06c0528d85)
 
 ## **Advantages:**
 - **Minimize churn rate:** Identify customers likely to leave and take timely action to retain them.  
