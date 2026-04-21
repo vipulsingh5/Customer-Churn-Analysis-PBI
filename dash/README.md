@@ -14,7 +14,7 @@
 
 ## 📌 Project Overview
 
-![Hello](<img width="1285" height="726" alt="Customer_Risk_Analysis" src="https://github.com/user-attachments/assets/8077f188-270b-47dd-905a-37be64d4c047" />)
+![Hello](src="https://github.com/user-attachments/assets/8077f188-270b-47dd-905a-37be64d4c047")
 
 
 This project focuses on analyzing customer behavior using **Power BI** and **Excel** to identify churn patterns and help businesses take proactive measures. The dashboard provides clear, interactive insights that support data-driven decision-making.
