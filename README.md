@@ -30,7 +30,6 @@ In addition to dashboard development, this project focuses on translating insigh
 - Customized communication: Adapted explanations according to stakeholder understanding.  
 - Recommended next steps: Provided actionable suggestions based on data insights.  
 
-![Email](https://github.com/DataVizExpert-Sham/Predictive-Customer-Analytics-in-Power-BI/assets/151017676/bfa991d6-c901-4a80-b43b-f8a8c8c54aeb)
 
 ## **Getting Started:**
 1. Download the project files.  
