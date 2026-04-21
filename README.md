@@ -36,6 +36,7 @@ This project focuses on analyzing customer behavior using **Power BI** and **Exc
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d1135cc8-e85b-4ca8-9d4f-7b5b4647e228" width="800"/>
 </p>
+<img width="1285" height="729" alt="Customer_Churn_Dashboard" src="https://github.com/user-attachments/assets/0dfe95b8-73d1-44a8-8ba3-536994bbf500" />
 
 ---
 
